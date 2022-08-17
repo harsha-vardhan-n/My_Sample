@@ -1,5 +1,5 @@
 # OnePageConfig
-## __OnePageConfig for Integration Lab Repo Code__
+### __OnePageConfig for Integration Lab Repo Code__
 
 
 ![Ilab](https://github.com/harsha-vardhan-n/My_Sample/blob/main/Ilab.jpg)
