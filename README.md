@@ -5,8 +5,6 @@
 
 > This OnePageConfig contains the version details of each of the Softwares or Tools or Modules or Plugins used in the Integration lab Repository Code.
 
-Below Table contains the various apps/softwares/tools/plugins/modules used for development with version
-
 ## Base Platform Requirements ##
 
 *The below table is the pre-requisites required to run the integration lab code*
