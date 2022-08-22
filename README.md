@@ -12,9 +12,11 @@
 | Software | Category | Version |
 | -------- | -------- | ------- |
 | OS | Centos | 7.9 |
-| Terraform | Software | 1.25 |
-| Ansible | Software | 2.1 |
+| Terraform | Software | 1.2.1 |
+| Ansible | Software | 2.13.1 |
 | Python | Programming | 3.0 |
+| Docker | Software | 20.10.17 |
+| git | Software | 1.8.3.1 |
 | VCenter | Tool | 5.6 |
 
 ## IntergrationLab Products ##
@@ -28,6 +30,21 @@
 | DICOM | Programming | 0.0 |
 | HSI | Programming | 0.0 |
 | IGT | Programming | 0.0 |
+
+## Other Dependent Softwares ##
+
+*The below table lists various applications used as part of deploying or configuring any integration lab usecases*
+
+| Software | Category | Version |
+| -------- | -------- | ------- |
+| .Net | Software | 4.7.2 |
+|  Java | Software | 11.0.7.10-1 |
+|  Microsoft SQL Server | Software | SQL2016 [Standard]|
+|  Kubernetes | Software | v1.20.9 |
+|  Helm | Software | 2.17.0 |
+|  rancher | Software | 2.5.9 |
+
+
 
 
  
