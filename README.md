@@ -6,7 +6,7 @@
 
 Below Table contains the various apps/softwares/tools/plugins/modules used for development with version
 
-<ins>##The Base Platform##</ins> to run the integration lab repo code
+##<ins>The Base Platform</ins>## to run the integration lab repo code
 
 | Software | Category | Version |
 | -------- | -------- | ------- |
