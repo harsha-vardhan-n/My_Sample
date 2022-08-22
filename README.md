@@ -27,6 +27,7 @@
 | DEID | Software | 0.0 |
 | DICOM | Programming | 0.0 |
 | HSI | Programming | 0.0 |
+| IGT | Programming | 0.0 |
 
 
  
