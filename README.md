@@ -25,11 +25,12 @@
 
 | Software | Category | Version |
 | -------- | -------- | ------- |
-| IBE | Software | 0.0 |
-| DEID | Software | 0.0 |
-| DICOM | Programming | 0.0 |
-| HSI | Programming | 0.0 |
-| IGT | Programming | 0.0 |
+| IBE | Software | Rhapsody 6.4.1 |
+| DICOM | Software | release-1.2.0.1 |
+| HSI | Software | rt.1.8.0.0,wb.1.7.0.0 |
+| ngcap | Software | rancher v2.5.9 |
+| iothub | Software | IoTHubBootstrap-0.4.0.349 |
+
 
 ## Other Dependent Softwares ##
 
